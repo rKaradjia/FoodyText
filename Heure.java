@@ -17,4 +17,18 @@ public class Heure {
 		return this.minutes;
 
 	}
+
+
+	public void setHeures(){
+
+		this.heures=heures;
+
+	}
+
+	public void setMinutes(){
+	
+		this.minutes=minutes;
+	
+	}
+	
 };
