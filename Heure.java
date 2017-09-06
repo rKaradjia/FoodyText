@@ -6,5 +6,15 @@ public class Heure {
 		this.heures=heures;
 		this.minutes=minutes;
 	}	
+	
+	public int getHeures(){
 
+ 		return this.heures;
+	}
+		
+	public int getMinutes(){
+
+		return this.minutes;
+
+	}
 };
